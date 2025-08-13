@@ -15,6 +15,9 @@ Benefits include:
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/869352e5-4f6d-41b2-9292-e01dc2cb23c3" />
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/624791c2-85cd-418b-aafd-659062b151ff" />
+
+
 
 * Instant detection of whale moves 💰
 * Early warnings for token spikes or dumps
