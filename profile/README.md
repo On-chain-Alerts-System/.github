@@ -13,6 +13,9 @@ Keeping your crypto investments secure and profitable means knowing what’s hap
 An **on-chain alert system** monitors blockchain activity in real time. It watches addresses, smart contracts, or token flows and sends notifications when preset triggers occur.
 Benefits include:
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/869352e5-4f6d-41b2-9292-e01dc2cb23c3" />
+
+
 * Instant detection of whale moves 💰
 * Early warnings for token spikes or dumps
 * Improved portfolio security
